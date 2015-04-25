@@ -31,7 +31,15 @@
 <div class="navbar navbar-default navbar-fixed-top" id="header" role="navigation">
 <div class="container">
 <div class="navbar-header pull-left">
-<a alt="dffr.net" class="navbar-brand" href="#" title="dffr.net"><span class="text-warning">dffr</span><span class="text-info"><strong>.</strong></span><span class="text-success">net</span></a>
+<a alt="
+dffr.net
+" class="navbar-brand" href="#" title="
+dffr.net
+">
+<span class="text-warning">dffr</span><span class="text-info"><strong>.</strong></span><span class="text-success">net</span>
+</a>
+</div>
+<div class="navbar-header pull-left">
 <p class="navbar-text">Free online text comparison tool</p>
 </div>
 <div class="navbar-header pull-right">
