@@ -28,21 +28,13 @@
 <meta content="../../../../../../img/icon.png" name="twitter:img"/>
 <script rel="javascript" type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-55438894-1', 'auto'); ga('require', 'displayfeatures'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview');</script><link href="../../../../../../css/bootstrap.min_whhg_codemirror_mbo_merge_dffrnet.css" rel="stylesheet" type="text/css"/></head>
 <body>
-<div class="navbar navbar-default" id="header" role="navigation">
+<div class="navbar navbar-default navbar-fixed-top" id="header" role="navigation">
 <div class="container">
-<div class="navbar-header">
-<button class="navbar-toggle collapsed" data-target=".navbar-collapse" data-toggle="collapse" type="button">
-<span class="sr-only">Toggle navigation</span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
+<div class="navbar-header pull-left">
 <a alt="dffr.net" class="navbar-brand" href="#" title="dffr.net"><span class="text-warning">dffr</span><span class="text-info"><strong>.</strong></span><span class="text-success">net</span></a>
-<ul class="nav navbar-nav">
-<li>Free online text<br/>comparison tool</li>
-</ul>
+<p class="navbar-text">Free online text comparison tool</p>
 </div>
-<div class="collapse navbar-collapse navbar-right">
+<div class="navbar-header pull-right">
 <ul class="nav navbar-nav">
 <li><a alt="About" class="modal-btn" href="#about" title="About">About</a></li>
 <li><a alt="Contact" class="modal-btn" href="#contact" title="Contact">Contact</a></li>
@@ -58,10 +50,10 @@
 <h3><small>Nothing to see here, move along.</small></h3>
 </div>
 </div>
-<div id="footer">
+<div class="container" id="footer">
 <div class="row">
 <div class="col-xs-3">
-<ul class="list-unstyled text-center">
+<ul class="list-unstyled text-center" id="privacy-tos-copy">
 <li>&nbsp;</li>
 <li><a alt="privacy" class="modal-btn" data-placement="top" data-toggle="tooltip" href="#privacy" title="View the privacy policy">privacy</a> &amp; <a alt="t.o.s." class="modal-btn" data-placement="top" data-toggle="tooltip" href="#tos" title="View the terms and conditions">t.o.s.</a></li>
 <li>------------------</li>

@@ -29,6 +29,7 @@ $(document).ready(function () {
 		navbar        = $('#navbar'),
 		menu          = $('#menu'),
 		footer        = $('#footer'),
+		logoBg        = $('#logo-bg'),
 		editorHeight  = 512,
 		editorOffset  = 28,
 		highlight     = true,
@@ -109,6 +110,7 @@ $(document).ready(function () {
 	resizeEditor();
 	createMiniMap(dv.right.diff);
 	tooltips.tooltip();
+    logoBg.css('opacity', 0);
 
 	// user interactions
 	// ------------------------------------------------------------------------------
