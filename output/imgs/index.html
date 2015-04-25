@@ -5,10 +5,10 @@
 <!----><meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<meta content="blank index page of img directory" name="description"/>
+<meta content="blank index page of imgs directory" name="description"/>
 <meta content="tmthydvnprt" name="author"/>
 <meta content="i,n,d,e,x" name="keywords"/>
-<title>img directory index</title>
+<title>imgs directory index</title>
 <link href="../../../../../../img/favicon.ico" id="favicon" rel="shortcut icon" type="image/x-icon"/>
 <link href="../../../../../../img/icon_60x60.png" rel="apple-touch-icon"/>
 <link href="../../../../../../img/icon_76x76.png" rel="apple-touch-icon" sizes="76x76"/>
@@ -16,7 +16,7 @@
 <link href="../../../../../../img/icon_152x152.png" rel="apple-touch-icon" sizes="152x152"/>
 <meta content="http://dffr.net" property="og:url"/>
 <meta content="website" property="og:type"/>
-<meta content="img directory index" property="og:title"/>
+<meta content="imgs directory index" property="og:title"/>
 <meta content="http://dffr.net/img/icon.png" property="og:image"/>
 <meta content="../../../../../../img/icon.png" name="msapplication-TileImage"/>
 <meta content="#3498db" name="msapplication-TileColor"/>
@@ -53,7 +53,7 @@
 <div id="holder">
 <div class="container text-center" id="page">
 <h2><br/></h2>
-<h2>Index page of the <code>img/</code> directory.</h2>
+<h2>Index page of the <code>imgs/</code> directory.</h2>
 <h3>This page was intentionally left blank.</h3>
 <h3><small>Nothing to see here, move along.</small></h3>
 </div>
