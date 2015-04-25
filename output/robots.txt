@@ -1,6 +1,0 @@
-# Sitemap location
-Sitemap: http://dffr.net/sitemap.xml
-
-# Allow crawling of all content
-User-agent: *
-Disallow:
