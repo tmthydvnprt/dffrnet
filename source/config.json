@@ -1,0 +1,21 @@
+{
+    "name"        : "dffrnet",
+    "domain"      : "dffr.net",
+    "title"       : "dffr.net free online text comparison tool",
+    "author"      : "tmthydvnprt",
+    "email"       : "text@dffer.net",
+    "description" : "Free online text comparison tool",
+    "keywords"    : ["online", "text", "compare", "difference", "merge"],
+    "changefreq"  : "monthly",
+    "priority"    : "0.5",
+    "local"       : false,
+    "patchcomment": false,
+    "quiltcomment": false,
+    "assetcomment": false,
+    "pagecomment" : false,
+    "pageobject"  : false,
+    "buildblog"   : false,
+    "buildatom"   : false,
+    "buildrss"    : false,
+    "copydate"    : 2014
+}
