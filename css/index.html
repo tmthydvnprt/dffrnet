@@ -5,28 +5,28 @@
 <!----><meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<meta content="Free online text comparison tool" name="description"/>
+<meta content="blank index page of css directory" name="description"/>
 <meta content="tmthydvnprt" name="author"/>
-<meta content="online,text,compare,difference,merge" name="keywords"/>
-<title>dffr.net free online text comparison tool</title>
-<link href="img/favicon.ico" id="favicon" rel="shortcut icon" type="image/x-icon"/>
-<link href="img/icon_60x60.png" rel="apple-touch-icon"/>
-<link href="img/icon_76x76.png" rel="apple-touch-icon" sizes="76x76"/>
-<link href="img/icon_120x120.png" rel="apple-touch-icon" sizes="120x120"/>
-<link href="img/icon_152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<meta content="i,n,d,e,x" name="keywords"/>
+<title>css directory index</title>
+<link href="../../../../../../img/favicon.ico" id="favicon" rel="shortcut icon" type="image/x-icon"/>
+<link href="../../../../../../img/icon_60x60.png" rel="apple-touch-icon"/>
+<link href="../../../../../../img/icon_76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="../../../../../../img/icon_120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="../../../../../../img/icon_152x152.png" rel="apple-touch-icon" sizes="152x152"/>
 <meta content="http://dffr.net" property="og:url"/>
 <meta content="website" property="og:type"/>
-<meta content="dffr.net free online text comparison tool" property="og:title"/>
+<meta content="css directory index" property="og:title"/>
 <meta content="http://dffr.net/img/icon.png" property="og:image"/>
-<meta content="img/icon.png" name="msapplication-TileImage"/>
+<meta content="../../../../../../img/icon.png" name="msapplication-TileImage"/>
 <meta content="#3498db" name="msapplication-TileColor"/>
 <meta content="summary" name="twitter:card"/>
 <meta content="@dffrnet" name="twitter:site"/>
 <meta content="dffr.net" name="twitter:domain"/>
 <meta content="Online Text Comparison Tool" name="twitter:title"/>
 <meta content="Online Text Comparison Tool" name="twitter:description"/>
-<meta content="img/icon.png" name="twitter:img"/>
-<script rel="javascript" type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-55438894-1', 'auto'); ga('require', 'displayfeatures'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview');</script><link href="css/bootstrap.min_whhg_codemirror_mbo_merge_dffrnet.css" rel="stylesheet" type="text/css"/></head>
+<meta content="../../../../../../img/icon.png" name="twitter:img"/>
+<script rel="javascript" type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-55438894-1', 'auto'); ga('require', 'displayfeatures'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview');</script><link href="../../../../../../css/bootstrap.min_whhg_codemirror_mbo_merge_dffrnet.css" rel="stylesheet" type="text/css"/></head>
 <body>
 <div class="navbar navbar-default" id="header" role="navigation">
 <div class="container">
@@ -51,41 +51,11 @@
 </div>
 </div>
 <div id="holder">
-<div id="page">
-<div id="fullview">
-<div id="window">...</div>
-<div id="minimap">...</div>
-</div>
-<div id="editor">
-<div class="row" id="menu">
-<div class="col-xs-5">
-<ul class="list-unstyled text-center">
-<li class="pull-left"><button alt="Clear Left Side" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" id="left-trash" title="Clear Left Side" type="button"><i class="icon-trash"></i></button></li>
-<li class="pull-left"><span alt="Load Left Side" class="btn btn-sm btn-info btn-file" data-placement="bottom" data-toggle="tooltip" id="left-open" title="Load Left Side"><i class="icon-folder-open"></i><input type="file"/></span></li>
-<li class="pull-left"><a alt="Save Left Side" class="btn btn-sm btn-success btn-save" data-placement="bottom" data-toggle="tooltip" download="left.txt" href="#" id="left-save" title="Save Left Side"><i class="icon-save-floppy"></i></a></li>
-<li class=""><input data-placement="bottom" data-toggle="tooltip" id="left-name" title="Left Filename" type="text" value="left.txt"/></li>
-</ul>
-</div>
-<div class="col-xs-2">
-<ul class="list-unstyled list-inline text-center">
-<li><button alt="Toggle Highlighting" class="btn btn-sm btn-warning" data-placement="bottom" data-toggle="tooltip" id="highlight" title="Toggle Highlighting" type="button"><i class="icon-marker"></i></button></li>
-<li><button alt="Switch Left/Right Sides" class="btn btn-sm btn-primary" data-placement="bottom" data-toggle="tooltip" id="switch" title="Switch Left/Right Sides" type="button"><i class="icon-refresh"></i></button></li>
-<li><button alt="Toggle Line Count" class="btn btn-sm btn-warning" data-placement="bottom" data-toggle="tooltip" id="linecount" title="Toggle Line Count" type="button"><i class="icon-numberlist"></i></button></li>
-</ul>
-</div>
-<div class="col-xs-5">
-<ul class="list-unstyled text-center">
-<li class="pull-right"><button alt="Clear Right Side" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" id="right-trash" title="Clear Left Side" type="button"><i class="icon-trash"></i></button></li>
-<li class="pull-right"><span alt="Load Right Side" class="btn btn-sm btn-info btn-file" data-placement="bottom" data-toggle="tooltip" id="right-open" title="Load Left Side"><i class="icon-folder-open"></i><input type="file"/></span></li>
-<li class=""><input data-placement="bottom" data-toggle="tooltip" id="right-name" title="Right Filename" type="text" value="right.txt"/></li>
-</ul>
-</div>
-</div>
-<div class="row">
-<div id="comparer">...</div>
-</div>
-</div>
-<div id="logo-bg"><span class="text-warning">dffr</span><span class="text-info"></span><span class="text-success">net</span></div>
+<div class="container text-center" id="page">
+<h2><br/></h2>
+<h2>Index page of the <code>css/</code> directory.</h2>
+<h3>This page was intentionally left blank.</h3>
+<h3><small>Nothing to see here, move along.</small></h3>
 </div>
 </div>
 <div id="footer">
@@ -168,7 +138,7 @@
 <h4 class="modal-title">Privacy</h4>
 </div>
 <div class="modal-body">
-<p class="lead">I've used <a alt="Google Analytics" href="http://www.google.com/analytics/" target="_blank" title="Google Analytics">Google Analytics</a> to understand visitors and <a alt="Google Adsense" href="http://www.google.com/adsense/" target="_blank" title="Google Adsense">Google Adsense</a> to minimize hosting costs, both of which are done to better the experience of this site. Specifically, I do <span class="text-warning">NOT</span> track the text you type or upload (<a alt="source" href="js/dffrnet.js" title="source"><code>source</code></a>). This is done to ensure your privacy and create a safe secure experience for you. If you have questions regarding this policy please feel free to contact us at <a alt="text@dffr.net" href="mailto:text@dffr.net?subject=Email%20about%20privacy" title="text@dffr.net">text@dffr.net</a>.</p>
+<p class="lead">I've used <a alt="Google Analytics" href="http://www.google.com/analytics/" target="_blank" title="Google Analytics">Google Analytics</a> to understand visitors and <a alt="Google Adsense" href="http://www.google.com/adsense/" target="_blank" title="Google Adsense">Google Adsense</a> to minimize hosting costs, both of which are done to better the experience of this site. Specifically, I do <span class="text-warning">NOT</span> track the text you type or upload (<a alt="source" href="../../../../../../js/dffrnet.js" title="source"><code>source</code></a>). This is done to ensure your privacy and create a safe secure experience for you. If you have questions regarding this policy please feel free to contact us at <a alt="text@dffr.net" href="mailto:text@dffr.net?subject=Email%20about%20privacy" title="text@dffr.net">text@dffr.net</a>.</p>
 <ul class="share list-inline list-unstyled text-center" id="social">
 <li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="Twitter"><i class="icon-twitter"></i></a></li>
 <!--<li><a href="http://www.facebook.com/100007441187127" target="_blank" class="btn btn-sm btn-danger" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="icon-facebook"></i></a></li>-->
@@ -204,6 +174,6 @@
 </div>
 </div>
 </div>
-<script id="scripts" rel="javascript" src="js/jquery-2.1.3.min_bootstrap.min_diff_match_patch.min_codemirror.min_active-line.min_merge.min_dffrnet.js" type="text/javascript"></script>
+<script id="scripts" rel="javascript" src="../../../../../../js/jquery-2.1.3.min_bootstrap.min_diff_match_patch.min_codemirror.min_active-line.min_merge.min_dffrnet.js" type="text/javascript"></script>
 </body>
 </html>
