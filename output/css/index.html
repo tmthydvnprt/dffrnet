@@ -65,7 +65,7 @@ dffr.net
 <ul class="list-unstyled text-center" id="privacy-tos-copy">
 <li><a alt="privacy" class="modal-btn" data-placement="top" data-toggle="tooltip" href="#privacy" title="View the privacy policy">privacy</a> &amp; <a alt="t.o.s." class="modal-btn" data-placement="top" data-toggle="tooltip" href="#tos" title="View the terms and conditions">t.o.s.</a></li>
 <li>------------------</li>
-<li>2014&ndash;2015 &copy;</li><li><a alt="tmthydvnprt" href="http:tmthydvnprt.com" target="_blank" title="tmthydvnprt">tmthydvnprt</a></li>
+<li>2014&ndash;2015 &copy;</li><li><a alt="tmthydvnprt" href="http://tmthydvnprt.com" target="_blank" title="tmthydvnprt">tmthydvnprt</a></li>
 </ul>
 </div>
 <div class="col-xs-1">
