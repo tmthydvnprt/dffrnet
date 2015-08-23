@@ -1,4 +1,4 @@
-title:       dffr.net free online text comparison tool
+title: dffr.net <=> text compare web app
 
 <div>
     <div id="fullview">

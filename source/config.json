@@ -1,10 +1,10 @@
 {
     "name"           : "dffrnet",
     "domain"         : "dffr.net",
-    "title"          : "dffr.net free online text comparison tool",
+    "title"          : "dffr.net <=> text compare web app",
     "author"         : "tmthydvnprt",
     "email"          : "tim@tmthydvnprt.com",
-    "description"    : "Free online text comparison tool",
+    "description"    : "Text compare web app. Line-by-line comparison between two text files with difference highlighting and merging.",
     "keywords"       : ["online", "text", "compare", "difference", "merge"],
     "changefreq"     : "monthly",
     "priority"       : "0.5",
