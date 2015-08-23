@@ -34,7 +34,7 @@
 <div class="navbar-header pull-left">
 <a alt="
 dffr.net
-" class="navbar-brand" href="#" title="
+" class="navbar-brand" href="../../../../../../index.html" title="
 dffr.net
 ">
 <span class="text-warning">dffr</span><span class="text-info"><strong>.</strong></span><span class="text-success">net</span>
