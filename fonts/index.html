@@ -41,7 +41,7 @@ dffr.net
 </a>
 </div>
 <div class="navbar-header pull-left">
-<p class="navbar-text">Free online text comparison tool</p>
+<p class="navbar-text">Text compare web app.</p>
 </div>
 <div class="navbar-header pull-right">
 <ul class="nav navbar-nav">
