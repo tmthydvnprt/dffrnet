@@ -4,7 +4,7 @@
     "title"          : "dffr.net <=> text compare web app",
     "author"         : "tmthydvnprt",
     "email"          : "tim@tmthydvnprt.com",
-    "description"    : "Text compare web app. Line-by-line comparison between two text files with difference highlighting and merging.",
+    "description"    : "A web browser based text compare app featuring line-by-line comparison between two text files, difference highlighting, line merging, with opening and saving.",
     "keywords"       : ["online", "text", "compare", "difference", "merge"],
     "changefreq"     : "monthly",
     "priority"       : "0.5",
