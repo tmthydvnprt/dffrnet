@@ -34,5 +34,5 @@ title:       dffr.net free online text comparison tool
             <div id="comparer">...</div>
         </div>
     </div>
-    <div id="logo-bg"><span class="text-warning">dffr</span><span class="text-info"><strong></strong></span><span class="text-success">net</span></div>
+    <div id="logo-bg"><span class="text-warning">dffr</span><span class="text-info"><strong>.</strong></span><span class="text-success">net</span></div>
 </div>
