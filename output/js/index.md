@@ -9,11 +9,11 @@
 <meta content="tmthydvnprt" name="author"/>
 <meta content="i,n,d,e,x" name="keywords"/>
 <title>js directory index</title>
-<link href="../../../../../../img/favicon.ico" id="favicon" rel="shortcut icon" type="image/x-icon"/>
-<link href="../../../../../../img/icon_60x60.png" rel="apple-touch-icon"/>
-<link href="../../../../../../img/icon_76x76.png" rel="apple-touch-icon" sizes="76x76"/>
-<link href="../../../../../../img/icon_120x120.png" rel="apple-touch-icon" sizes="120x120"/>
-<link href="../../../../../../img/icon_152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="../img/favicon.ico" id="favicon" rel="shortcut icon" type="image/x-icon"/>
+<link href="../img/icon_60x60.png" rel="apple-touch-icon"/>
+<link href="../img/icon_76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="../img/icon_120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="../img/icon_152x152.png" rel="apple-touch-icon" sizes="152x152"/>
 <meta content="http://dffr.net" property="og:url"/>
 <meta content="website" property="og:type"/>
 <meta content="js directory index" property="og:title"/>
@@ -27,14 +27,14 @@
 <meta content="Online Text Comparison Tool" name="twitter:description"/>
 <meta content="http://dffr.net/img/icon.png" name="twitter:img"/>
 <script rel="javascript" type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-55438894-1', 'auto'); ga('require', 'displayfeatures'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview');</script>
-<link href="../../../../../../css/bootstrap.min_whhg_codemirror_mbo_merge_dffrnet.css" rel="stylesheet" type="text/css"/></head>
+<link href="../css/bootstrap.min_whhg_codemirror_mbo_merge_dffrnet.css" rel="stylesheet" type="text/css"/></head>
 <body>
 <div class="navbar navbar-default navbar-fixed-top" id="navbar" role="navigation">
 <div class="container">
 <div class="navbar-header pull-left">
 <a alt="
 dffr.net
-" class="navbar-brand" href="../../../../../../index.html" title="
+" class="navbar-brand" href="../index.html" title="
 dffr.net
 ">
 <span class="text-warning">dffr</span><span class="text-info"><strong>.</strong></span><span class="text-success">net</span>
@@ -139,7 +139,7 @@ dffr.net
 </div>
 <div class="modal-body">
 <p class="lead">I've used <a alt="Google Analytics" href="http://www.google.com/analytics/" target="_blank" title="Google Analytics">Google Analytics</a> to understand visitors and <a alt="Google Adsense" href="http://www.google.com/adsense/" target="_blank" title="Google Adsense">Google Adsense</a> to minimize costs, both of which are done to better the experience and longevity of this site.</p>
-<p class="lead">Specifically, I do <span class="text-warning">NOT</span> track the text you type or upload (check out my <a alt="source" href="../../../../../../js/dffrnet.js" title="source"><code>source</code></a> if you'd like). This is done to ensure your privacy and create a safe environment for you.</p>
+<p class="lead">Specifically, I do <span class="text-warning">NOT</span> track the text you type or upload (check out my <a alt="source" href="../js/dffrnet.js" title="source"><code>source</code></a> if you'd like). This is done to ensure your privacy and create a safe environment for you.</p>
 <ul class="share list-inline list-unstyled text-center" id="social">
 <li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet"><i class="icon-twitter"></i></a></li>
 <li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/follow?screen_name=dffrnet" target="_blank" title="Follow"><i class="icon-addfriend"></i></a></li>
@@ -174,6 +174,6 @@ dffr.net
 </div>
 </div>
 </div>
-<script id="scripts" rel="javascript" src="../../../../../../js/jquery-2.1.3.min_bootstrap.min_diff_match_patch.min_codemirror.min_active-line.min_merge.min_dffrnet.js" type="text/javascript"></script>
+<script id="scripts" rel="javascript" src="../js/jquery-2.1.3.min_bootstrap.min_diff_match_patch.min_codemirror.min_active-line.min_merge.min_dffrnet.js" type="text/javascript"></script>
 </body>
 </html>
