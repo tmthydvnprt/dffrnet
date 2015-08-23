@@ -88,11 +88,15 @@ dffr.net
 <div class="modal-content">
 <div class="modal-header">
 <button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-<h4 class="modal-title">About</h4>
+<h1 class="modal-title">About</h1>
 </div>
 <div class="modal-body">
+<h2>dffr.net</h2>
 <p class="lead ">blank index page of fonts directory</p>
-<p class="lead">After using a text compare tool <a alt="that is beyond comparison" href="https://www.google.com/search?rls=en&amp;q=text+compare+that+is+beyond+comparison&amp;ie=UTF-8&amp;oe=UTF-8" target="_blank" title="that is beyond comparison">that is beyond comparison</a>, and not finding anything quite suitable online, I decided to make one! And why not in a little web app?  So I quickly mashed this up with big thanks to <a alt="codemirror" href="http://codemirror.net" target="_blank" title="codemirror">codemirror</a> &amp; <a alt="diff-match-patch" href="https://code.google.com/p/google-diff-match-patch/" target="_blank" title="diff-match-patch">diff-match-patch</a>. Basically, all the heavy lifting is performed by them.  I just added a little user interface and the minimap scroller.</p>
+<h2>Reason</h2>
+<p class="lead">After using a text compare tool <a alt="that is beyond comparison" href="https://www.google.com/search?rls=en&amp;q=text+compare+that+is+beyond+comparison&amp;ie=UTF-8&amp;oe=UTF-8" target="_blank" title="that is beyond comparison">that is beyond comparison</a>, and not finding anything quite suitable online, I decided to make one! And why not in a little web app?  So I quickly mashed this up.</p>
+<h2>Credit &amp; Thanks</h2>
+<p class="lead"> Big thanks to <a alt="codemirror" href="http://codemirror.net" target="_blank" title="codemirror">codemirror</a> &amp; <a alt="diff-match-patch" href="https://code.google.com/p/google-diff-match-patch/" target="_blank" title="diff-match-patch">diff-match-patch</a>. Basically, all the heavy lifting is performed by them.  I just added a little user interface and the minimap scroller.</p>
 <p class="lead text-center">
                         Maybe you will find it useful?
                         <br/>Try it. Bookmark it. Share it.
@@ -115,7 +119,7 @@ dffr.net
 <div class="modal-content">
 <div class="modal-header">
 <button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-<h4 class="modal-title">Contact</h4>
+<h2 class="modal-title">Contact</h2>
 </div>
 <div class="modal-body">
 <p class="lead">If you need to get in touch, contact <a alt="@dffrnet" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet">@dffrnet</a> on twitter.</p>
@@ -136,7 +140,7 @@ dffr.net
 <div class="modal-content">
 <div class="modal-header">
 <button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-<h4 class="modal-title">Privacy</h4>
+<h2 class="modal-title">Privacy</h2>
 </div>
 <div class="modal-body">
 <p class="lead">I've used <a alt="Google Analytics" href="http://www.google.com/analytics/" target="_blank" title="Google Analytics">Google Analytics</a> to understand visitors and <a alt="Google Adsense" href="http://www.google.com/adsense/" target="_blank" title="Google Adsense">Google Adsense</a> to minimize costs, both of which are done to better the experience and longevity of this site.</p>
@@ -158,7 +162,7 @@ dffr.net
 <div class="modal-content">
 <div class="modal-header">
 <button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-<h4 class="modal-title">Terms of Service</h4>
+<h2 class="modal-title">Terms of Service</h2>
 </div>
 <div class="modal-body">
 <p class="lead"> You agree to the privacy policy by using this site.  This site is also provided as is.  All usage is the responsibility of the user.  Always save &amp; backup your work, loss of work is the responsibility of the user.</p>
