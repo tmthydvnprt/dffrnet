@@ -18,7 +18,7 @@
 <meta content="website" property="og:type"/>
 <meta content="imgs directory index" property="og:title"/>
 <meta content="http://dffr.net/img/icon.png" property="og:image"/>
-<meta content="../../../../../../img/icon.png" name="msapplication-TileImage"/>
+<meta content="dffr.netimg/icon.png" name="msapplication-TileImage"/>
 <meta content="#3498db" name="msapplication-TileColor"/>
 <meta content="summary" name="twitter:card"/>
 <meta content="@dffrnet" name="twitter:site"/>
@@ -28,7 +28,7 @@
 <meta content="../../../../../../img/icon.png" name="twitter:img"/>
 <script rel="javascript" type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-55438894-1', 'auto'); ga('require', 'displayfeatures'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview');</script><link href="../../../../../../css/bootstrap.min_whhg_codemirror_mbo_merge_dffrnet.css" rel="stylesheet" type="text/css"/></head>
 <body>
-<div class="navbar navbar-default navbar-fixed-top" id="header" role="navigation">
+<div class="navbar navbar-default navbar-fixed-top" id="navbar" role="navigation">
 <div class="container">
 <div class="navbar-header pull-left">
 <a alt="
@@ -62,17 +62,16 @@ dffr.net
 <div class="row">
 <div class="col-xs-3">
 <ul class="list-unstyled text-center" id="privacy-tos-copy">
-<li>&nbsp;</li>
 <li><a alt="privacy" class="modal-btn" data-placement="top" data-toggle="tooltip" href="#privacy" title="View the privacy policy">privacy</a> &amp; <a alt="t.o.s." class="modal-btn" data-placement="top" data-toggle="tooltip" href="#tos" title="View the terms and conditions">t.o.s.</a></li>
 <li>------------------</li>
-<li>2014&ndash;2015 &copy; dffr.net</li>
+<li>2014&ndash;2015 &copy;</li><li><a alt="tmthydvnprt" href="http:tmthydvnprt.com" target="_blank" title="tmthydvnprt">tmthydvnprt</a></li>
 </ul>
 </div>
 <div class="col-xs-1">
 <ul class="share list-unstyled text-center">
-<li><a alt="" class="btn btn-sm btn-danger" data-placement="left" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="Twitter"><i class="icon-twitter"></i></a></li>
-<!--<li><a href="http://www.facebook.com/100007441187127" target="_blank" class="btn btn-sm btn-danger" data-toggle="tooltip" data-placement="left" title="Facebook"><i class="icon-facebook"></i></a></li>-->
-<li><a alt="" class="btn btn-sm btn-danger" data-placement="left" data-toggle="tooltip" href="mailto:text@dffr.net" title="Email"><i class="icon-webmail"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="left" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet"><i class="icon-twitter"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="left" data-toggle="tooltip" href="https://twitter.com/intent/follow?screen_name=dffrnet" target="_blank" title="Follow"><i class="icon-addfriend"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="left" data-toggle="tooltip" href="https://twitter.com/intent/tweet?hashtags=textcompare&amp;related=dffrnet&amp;text=I%20just%20used%20this%20free%20text%20comparison%20web%20app!&amp;url=http%3A%2F%2Fdffr.net" target="_blank" title="Share"><i class="icon-commentlove"></i></a></li>
 </ul>
 </div>
 <div class="col-xs-8">
@@ -91,16 +90,16 @@ dffr.net
 <h4 class="modal-title">About</h4>
 </div>
 <div class="modal-body">
-<p class="lead">After using a text compare tool at work <a alt="that is beyond comparison" href="https://www.google.com/search?rls=en&amp;q=text+compare+that+is+beyond+comparison&amp;ie=UTF-8&amp;oe=UTF-8" target="_blank" title="that is beyond comparison">that is beyond comparison</a>, and not finding anything quite suitable for home use online, I decided to make one! And why not in a little web app?  So I mashed this up quickly with big thanks to <a alt="codemirror" href="http://codemirror.net" target="_blank" title="codemirror">codemirror</a> &amp; <a alt="diff-match-patch" href="https://code.google.com/p/google-diff-match-patch/" target="_blank" title="diff-match-patch">diff-match-patch</a>. Basically, all the heavy lifting is performed by them.  I just added a little user interface and the minimap scroller.</p>
+<p class="lead">After using a text compare tool <a alt="that is beyond comparison" href="https://www.google.com/search?rls=en&amp;q=text+compare+that+is+beyond+comparison&amp;ie=UTF-8&amp;oe=UTF-8" target="_blank" title="that is beyond comparison">that is beyond comparison</a>, and not finding anything quite suitable online, I decided to make one! And why not in a little web app?  So I quickly mashed this up with big thanks to <a alt="codemirror" href="http://codemirror.net" target="_blank" title="codemirror">codemirror</a> &amp; <a alt="diff-match-patch" href="https://code.google.com/p/google-diff-match-patch/" target="_blank" title="diff-match-patch">diff-match-patch</a>. Basically, all the heavy lifting is performed by them.  I just added a little user interface and the minimap scroller.</p>
 <p class="lead text-center">
-                        Maybe you will find it useful.
+                        Maybe you will find it useful?
                         <br/>Try it. Bookmark it. Share it.
                         <br/>Make suggestions to <a alt="@dffrnet" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet">@dffrnet</a> for improvements.
                     </p>
 <ul class="share list-inline list-unstyled text-center" id="social">
-<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="Twitter"><i class="icon-twitter"></i></a></li>
-<!--<li><a href="http://www.facebook.com/100007441187127" target="_blank" class="btn btn-sm btn-danger" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="icon-facebook"></i></a></li>-->
-<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="mailto:text@dffr.net" title="Email"><i class="icon-webmail"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet"><i class="icon-twitter"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/follow?screen_name=dffrnet" target="_blank" title="Follow"><i class="icon-addfriend"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/tweet?hashtags=textcompare&amp;related=dffrnet&amp;text=I%20just%20used%20this%20free%20text%20comparison%20web%20app!&amp;url=http%3A%2F%2Fdffr.net" target="_blank" title="Share"><i class="icon-commentlove"></i></a></li>
 </ul>
 </div>
 <div class="modal-footer">
@@ -117,11 +116,11 @@ dffr.net
 <h4 class="modal-title">Contact</h4>
 </div>
 <div class="modal-body">
-<p class="lead">If you need to get in touch, contact <a alt="@dffrnet" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet">@dffrnet</a> on twitter is preferable, but you may also send messages to <a alt="text@dffr.net" href="mailto:text@dffr.net" title="text@dffr.net">text@dffr.net</a>.</p>
+<p class="lead">If you need to get in touch, contact <a alt="@dffrnet" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet">@dffrnet</a> on twitter.</p>
 <ul class="share list-inline list-unstyled text-center" id="social">
-<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="Twitter"><i class="icon-twitter"></i></a></li>
-<!--<li><a href="http://www.facebook.com/100007441187127" target="_blank" class="btn btn-sm btn-danger" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="icon-facebook"></i></a></li>-->
-<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="mailto:text@dffr.net" title="Email"><i class="icon-webmail"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet"><i class="icon-twitter"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/follow?screen_name=dffrnet" target="_blank" title="Follow"><i class="icon-addfriend"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/tweet?hashtags=textcompare&amp;related=dffrnet&amp;text=I%20just%20used%20this%20free%20text%20comparison%20web%20app!&amp;url=http%3A%2F%2Fdffr.net" target="_blank" title="Share"><i class="icon-commentlove"></i></a></li>
 </ul>
 </div>
 <div class="modal-footer">
@@ -138,11 +137,12 @@ dffr.net
 <h4 class="modal-title">Privacy</h4>
 </div>
 <div class="modal-body">
-<p class="lead">I've used <a alt="Google Analytics" href="http://www.google.com/analytics/" target="_blank" title="Google Analytics">Google Analytics</a> to understand visitors and <a alt="Google Adsense" href="http://www.google.com/adsense/" target="_blank" title="Google Adsense">Google Adsense</a> to minimize costs, both of which are done to better the experience of this site. Specifically, I do <span class="text-warning">NOT</span> track the text you type or upload (see <a alt="source" href="../../../../../../js/dffrnet.js" title="source"><code>source</code></a>). This is done to ensure your privacy and create a safe secure experience for you. If you have questions regarding this policy please feel free to contact us at <a alt="text@dffr.net" href="mailto:text@dffr.net?subject=Email%20about%20privacy" title="text@dffr.net">text@dffr.net</a>.</p>
+<p class="lead">I've used <a alt="Google Analytics" href="http://www.google.com/analytics/" target="_blank" title="Google Analytics">Google Analytics</a> to understand visitors and <a alt="Google Adsense" href="http://www.google.com/adsense/" target="_blank" title="Google Adsense">Google Adsense</a> to minimize costs, both of which are done to better the experience and longevity of this site.</p>
+<p class="lead">Specifically, I do <span class="text-warning">NOT</span> track the text you type or upload (check out my <a alt="source" href="../../../../../../js/dffrnet.js" title="source"><code>source</code></a> if you'd like). This is done to ensure your privacy and create a safe environment for you.</p>
 <ul class="share list-inline list-unstyled text-center" id="social">
-<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="Twitter"><i class="icon-twitter"></i></a></li>
-<!--<li><a href="http://www.facebook.com/100007441187127" target="_blank" class="btn btn-sm btn-danger" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="icon-facebook"></i></a></li>-->
-<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="mailto:text@dffr.net" title="Email"><i class="icon-webmail"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet"><i class="icon-twitter"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/follow?screen_name=dffrnet" target="_blank" title="Follow"><i class="icon-addfriend"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/tweet?hashtags=textcompare&amp;related=dffrnet&amp;text=I%20just%20used%20this%20free%20text%20comparison%20web%20app!&amp;url=http%3A%2F%2Fdffr.net" target="_blank" title="Share"><i class="icon-commentlove"></i></a></li>
 </ul>
 </div>
 <div class="modal-footer">
@@ -160,11 +160,10 @@ dffr.net
 </div>
 <div class="modal-body">
 <p class="lead"> You agree to the privacy policy by using this site.  This site is also provided as is.  All usage is the responsibility of the user.  Always save &amp; backup your work, loss of work is the responsibility of the user.</p>
-<p class="lead"><a alt="text@dffr.net" href="mailto:text@dffr.net" title="text@dffr.net">text@dffr.net</a></p>
 <ul class="share list-inline list-unstyled text-center" id="social">
-<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="Twitter"><i class="icon-twitter"></i></a></li>
-<!--<li><a href="http://www.facebook.com/100007441187127" target="_blank" class="btn btn-sm btn-danger" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="icon-facebook"></i></a></li>-->
-<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="mailto:text@dffr.net" title="Email"><i class="icon-webmail"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet"><i class="icon-twitter"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/follow?screen_name=dffrnet" target="_blank" title="Follow"><i class="icon-addfriend"></i></a></li>
+<li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/tweet?hashtags=textcompare&amp;related=dffrnet&amp;text=I%20just%20used%20this%20free%20text%20comparison%20web%20app!&amp;url=http%3A%2F%2Fdffr.net" target="_blank" title="Share"><i class="icon-commentlove"></i></a></li>
 </ul>
 </div>
 <div class="modal-footer">
