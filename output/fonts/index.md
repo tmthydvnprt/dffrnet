@@ -18,15 +18,16 @@
 <meta content="website" property="og:type"/>
 <meta content="fonts directory index" property="og:title"/>
 <meta content="http://dffr.net/img/icon.png" property="og:image"/>
-<meta content="dffr.netimg/icon.png" name="msapplication-TileImage"/>
+<meta content="http://dffr.net/img/icon.png" name="msapplication-TileImage"/>
 <meta content="#3498db" name="msapplication-TileColor"/>
 <meta content="summary" name="twitter:card"/>
 <meta content="@dffrnet" name="twitter:site"/>
 <meta content="dffr.net" name="twitter:domain"/>
 <meta content="Online Text Comparison Tool" name="twitter:title"/>
 <meta content="Online Text Comparison Tool" name="twitter:description"/>
-<meta content="../../../../../../img/icon.png" name="twitter:img"/>
-<script rel="javascript" type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-55438894-1', 'auto'); ga('require', 'displayfeatures'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview');</script><link href="../../../../../../css/bootstrap.min_whhg_codemirror_mbo_merge_dffrnet.css" rel="stylesheet" type="text/css"/></head>
+<meta content="http://dffr.net/img/icon.png" name="twitter:img"/>
+<script rel="javascript" type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-55438894-1', 'auto'); ga('require', 'displayfeatures'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview');</script>
+<link href="../../../../../../css/bootstrap.min_whhg_codemirror_mbo_merge_dffrnet.css" rel="stylesheet" type="text/css"/></head>
 <body>
 <div class="navbar navbar-default navbar-fixed-top" id="navbar" role="navigation">
 <div class="container">
