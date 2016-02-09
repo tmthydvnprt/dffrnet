@@ -1,12 +1,7 @@
 dffr.net
 =============
 
-Description
------------
-
-online text comparison tool 
-See [dffr.net](http://tmthydvnprt.github.io/dffrnet).
+Online text comparison tool. http://dffr.net
 
 * `source` website source files
 * `output` compiled version of website
-
