@@ -8,10 +8,10 @@
 Page stitched together with quilt:
 quilt          : v0.1.1, make-blog-index-a-patch, 9a9eca57226d7f64011dfe9e1b50b12f7b9e5bbe
 url            : dffr.net/imgs/index.html
-quilted on     : 2016-03-02 04:22:33
+quilted on     : 2016-03-02 04:25:28
 source branch  : master
-source hash    : 5f2491512c64c248ef572a5fad66b657f1462cc3
-stitching took : 0.026 s
+source hash    : 04abbe970ab00e0276978c06476b168a28a6369f
+stitching took : 0.027 s
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 --><meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
