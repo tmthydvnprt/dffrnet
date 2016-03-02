@@ -2,8 +2,8 @@ title: dffr.net <=> text compare web app
 
 <div>
     <div id="fullview">
-        <div id="window">...</div>
-        <div id="minimap">...</div>
+        <div id="window"></div>
+        <div id="minimap"></div>
     </div>
     <div id="editor">
         <div id="menu" class="row">

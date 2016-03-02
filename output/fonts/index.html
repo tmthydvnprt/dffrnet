@@ -1,8 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+<!--quilted head patch-->
 <head>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<!----><meta charset="utf-8"/>
+<!--
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Page stitched together with quilt:
+quilt          : v0.1.1, make-blog-index-a-patch, 9a9eca57226d7f64011dfe9e1b50b12f7b9e5bbe
+url            : dffr.net/fonts/index.html
+quilted on     : 2016-03-02 04:22:33
+source branch  : master
+source hash    : 5f2491512c64c248ef572a5fad66b657f1462cc3
+stitching took : 0.028 s
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--><meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <meta content="blank index page of fonts directory" name="description"/>
@@ -29,6 +40,7 @@
 <script rel="javascript" type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-55438894-1', 'auto'); ga('require', 'displayfeatures'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview');</script>
 <link href="../css/bootstrap.min_whhg_codemirror_mbo_merge_dffrnet.css" rel="stylesheet" type="text/css"/></head>
 <body>
+<!--quilted header patch-->
 <div class="navbar navbar-default navbar-fixed-top" id="navbar" role="navigation">
 <div class="container">
 <div class="navbar-header pull-left">
@@ -52,6 +64,7 @@ dffr.net
 </div>
 </div>
 <div id="holder">
+<!--quilted page patch-->
 <div class="container text-center" id="page">
 <h2><br/></h2>
 <h2>Index page of the <code>fonts/</code> directory.</h2>
@@ -59,6 +72,7 @@ dffr.net
 <h3><small>Nothing to see here, move along.</small></h3>
 </div>
 </div>
+<!--quilted footer patch-->
 <div class="container" id="footer">
 <div class="row">
 <div class="col-xs-3">
@@ -82,6 +96,7 @@ dffr.net
 </div>
 </div>
 </div>
+<!--quilted modal patch-->
 <div id="modal">
 <div class="modal fade" id="about-modal">
 <div class="modal-dialog">
@@ -104,6 +119,7 @@ dffr.net
                         <br/>Try it. Bookmark it. Share it.
                         <br/>Make suggestions to <a alt="@dffrnet" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet">@dffrnet</a> for improvements.
                     </p>
+<!--quilted social patch-->
 <ul class="share list-inline list-unstyled text-center" id="social">
 <li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet"><i class="icon-twitter"></i></a></li>
 <li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/follow?screen_name=dffrnet" target="_blank" title="Follow"><i class="icon-addfriend"></i></a></li>
@@ -125,6 +141,7 @@ dffr.net
 </div>
 <div class="modal-body">
 <p class="lead">If you need to get in touch, contact <a alt="@dffrnet" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet">@dffrnet</a> on twitter.</p>
+<!--quilted social patch-->
 <ul class="share list-inline list-unstyled text-center" id="social">
 <li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet"><i class="icon-twitter"></i></a></li>
 <li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/follow?screen_name=dffrnet" target="_blank" title="Follow"><i class="icon-addfriend"></i></a></li>
@@ -147,6 +164,7 @@ dffr.net
 <div class="modal-body">
 <p class="lead">I've used <a alt="Google Analytics" href="http://www.google.com/analytics/" target="_blank" title="Google Analytics">Google Analytics</a> to understand visitors and <a alt="Google Adsense" href="http://www.google.com/adsense/" target="_blank" title="Google Adsense">Google Adsense</a> to minimize costs, both of which are done to better the experience and longevity of this site.</p>
 <p class="lead">Specifically, I do <span class="text-warning">NOT</span> track the text you type or upload (check out my <a alt="source" href="../js/dffrnet.js" title="source"><code>source</code></a> if you'd like). This is done to ensure your privacy and create a safe environment for you.</p>
+<!--quilted social patch-->
 <ul class="share list-inline list-unstyled text-center" id="social">
 <li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet"><i class="icon-twitter"></i></a></li>
 <li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/follow?screen_name=dffrnet" target="_blank" title="Follow"><i class="icon-addfriend"></i></a></li>
@@ -168,6 +186,7 @@ dffr.net
 </div>
 <div class="modal-body">
 <p class="lead"> You agree to the privacy policy by using this site.  This site is also provided as is.  All usage is the responsibility of the user.  Always save &amp; backup your work, loss of work is the responsibility of the user.</p>
+<!--quilted social patch-->
 <ul class="share list-inline list-unstyled text-center" id="social">
 <li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="http://twitter.com/dffrnet" target="_blank" title="@dffrnet"><i class="icon-twitter"></i></a></li>
 <li><a alt="" class="btn btn-sm btn-danger" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/intent/follow?screen_name=dffrnet" target="_blank" title="Follow"><i class="icon-addfriend"></i></a></li>
@@ -181,6 +200,7 @@ dffr.net
 </div>
 </div>
 </div>
+<!--quilted scripts patch-->
 <script id="scripts" rel="javascript" src="../js/jquery-2.1.3.min_bootstrap.min_diff_match_patch.min_codemirror.min_active-line.min_merge.min_dffrnet.js" type="text/javascript"></script>
 </body>
 </html>
