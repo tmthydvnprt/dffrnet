@@ -31,7 +31,7 @@ title: dffr.net <=> text compare web app
             </div>
         </div>
         <div class="row">
-            <div id="comparer">...</div>
+            <div id="comparer"></div>
         </div>
     </div>
     <div id="logo-bg"><span class="text-warning">dffr</span><span class="text-info"><strong>.</strong></span><span class="text-success">net</span></div>
