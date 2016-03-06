@@ -18,6 +18,7 @@
     "buildatom"      : false,
     "buildrss"       : false,
     "copydate"       : 2014,
+    "git"           : "../",
     "copyrighter"    : "tmthydvnprt",
     "copyrighterurl" : "http://tmthydvnprt.com"
 }
